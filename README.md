@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB.svg)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626.svg)](https://jupyter.org/)
 
-Analysis code and reproducible research materials for a Maastricht University study of sex differences and trait-specific correlates of autistic camouflaging.
+Analysis code and reproducible research materials for a Maastricht University study of sex differences and trait-specific correlates of camouflaging in the context of autism traits.
 
 ## Overview
 
