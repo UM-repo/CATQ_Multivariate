@@ -41,6 +41,11 @@ Compensation, Masking, and Assimilation are modelled jointly using multivariate 
 | [`code/`](code/) | Contains the complete analysis notebook, including modelling, sensitivity analyses, figures, and tables. It also contains the standalone impute script used to generate the multiply imputed datasets. |
 | [`data/`](data/) | Contains the processed source dataset of 195 participants and the ZIP package with the 20 completed imputed datasets used by the analysis notebook. |
 
+## Reuse of data
+
+Data can be reused with proper accreditation towards the authors.
+
+>
 
 ## License
 
