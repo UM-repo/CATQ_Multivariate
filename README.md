@@ -41,11 +41,11 @@ Compensation, Masking, and Assimilation are modelled jointly using multivariate 
 | [`code/`](code/) | Contains the complete analysis notebook, including modelling, sensitivity analyses, figures, and tables. It also contains the standalone impute script used to generate the multiply imputed datasets. |
 | [`data/`](data/) | Contains the processed source dataset of 195 participants and the ZIP package with the 20 completed imputed datasets used by the analysis notebook. |
 
-## Reuse of data
+## Data and Code Reusability
 
-Data can be reused with proper accreditation towards the authors.
+Data and code can be reused with proper accreditation towards the authors:
 
->
+> Monteiro, S., Ambraß, L., de Sousa Fernandes Perna, E., Blokland, A., Stauder, J. (2026). Rethinking the Boundaries of Camouflaging: A Multivariate Analysis of Sex, Empathizing, Systemizing, and Autistic Traits.
 
 ## License
 
