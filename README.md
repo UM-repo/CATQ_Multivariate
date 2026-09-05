@@ -12,7 +12,7 @@ This repository contains the code used to examine variation in the three domains
 
 The work accompanies the manuscript:
 
-> Monteiro, S., Ambraß, L., de Sousa Fernandes Perna, E., Blokland, A., Stauder, J. (2026). *Camouflaging Beyond Gender: Distinct Roles of Empathizing, Systemizing, and Autistic Traits.* 
+> Monteiro, S., Ambraß, L., de Sousa Fernandes Perna, E., Blokland, A., Stauder, J. (2026). *Rethinking Gender Differences in Camouflaging: Multivariate Trait Associations Across Compensation, Masking, and Assimilation.* 
 
 ## Analytical workflow
 
